@@ -21,7 +21,7 @@ function task10() {
       console.log("Дані з сервера:", data);
     })
     .catch((error) => {
-      console.error("Помилка:", error);
+      console.error("Виникла помилка Помилка:", error);
     });
 }
 
